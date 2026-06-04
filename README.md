@@ -13,7 +13,8 @@ npm run dev
 
 有什么问题告诉我
 
-#Claude Code Said:
+# Claude Code Said:
+
 ## React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
