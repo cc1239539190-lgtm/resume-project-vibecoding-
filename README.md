@@ -7,10 +7,11 @@ npm run dev
 ```
 ## 感谢
 
-·claude code·
+`claude code`
 
-###
-有什么问题请告诉
+### PLZ
+
+有什么问题告诉我
 
 #Claude Code Said:
 ## React + TypeScript + Vite
